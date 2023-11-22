@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.content {
+    width: 400px;
+    margin: 0 auto;
+}
+.dangkythanhvien {
+    width: 400px;
+    border: 1px solid #ddd;
+    margin-top: 60px;
+}
+.dangkythanhvien h3 {
+    background-color: #009688;
+    padding: 5px;
+    color: #fff;
+    text-align: center;
+}
+.dangkythanhvien form table tr td {
+    padding: 5px;
+}
+.dangkythanhvien form table tr td input {
+    padding: 3px 5px;
+}
+.list {
+    background-color: yellow;
+    padding: 5px;
+    border-radius: 10px;
+    margin: 5px;
+}
+.danhsach table thead tr th {
+    text-align: center;
+    width: 10%;
+}
+.danhsach table thead {
+    background-color: black;
+    color: white;
+}
+.danhsach table {
+    margin-top: 2%;
+    text-align: center;
+}
+.admin-info {
+    padding: 7px;
+    color: white;
+}
+.logo {
+    padding: 21px;
+}
+.logo-content {
+    padding: 22px;
+}
+.logo-content h4 {
+    margin-bottom: 0;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 0;
+}
+.logo-content p {
+    margin-bottom: 0;
+    font-size: 10px;
+}
+img {
+    background: transparent;
+}
+.main-content div.menu {
+    padding-left: 0;
+    padding-right: 0;
+    min-height: 80vh;
+}
+.copyright {
+    text-align: right;
+    margin-top: 70px;
+}
